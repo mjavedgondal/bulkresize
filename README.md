@@ -1,4 +1,4 @@
-# -> [Demo Site](https://storage.googleapis.com/birme-sd-variant/index.html?target_width=512&target_height=512) <-
+# -> [Demo Site](https://imageresizer.dubaioffplanhub.com/) <-
 
 # Birme Variant for Stable Diffusion
 When training Stable Diffusion (or other generative image models) we need high quality and cropped training images at 512x512.  Birme is the best tool for doing this quickly, and with the help of [smartcrop.js](https://github.com/jwagner/smartcrop.js/) it's truly a powerful tool for batch cropping images.
